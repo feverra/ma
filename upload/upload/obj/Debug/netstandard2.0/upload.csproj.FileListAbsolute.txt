@@ -1,0 +1,12 @@
+C:\Users\pill\source\repos\upload\upload\upload\bin\Debug\netstandard2.0\upload.deps.json
+C:\Users\pill\source\repos\upload\upload\upload\bin\Debug\netstandard2.0\upload.dll
+C:\Users\pill\source\repos\upload\upload\upload\bin\Debug\netstandard2.0\upload.pdb
+C:\Users\pill\source\repos\upload\upload\upload\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pill\source\repos\upload\upload\upload\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pill\source\repos\upload\upload\upload\obj\Debug\netstandard2.0\upload.csproj.CoreCompileInputs.cache
+C:\Users\pill\source\repos\upload\upload\upload\obj\Debug\netstandard2.0\upload.AssemblyInfoInputs.cache
+C:\Users\pill\source\repos\upload\upload\upload\obj\Debug\netstandard2.0\upload.AssemblyInfo.cs
+C:\Users\pill\source\repos\upload\upload\upload\obj\Debug\netstandard2.0\upload.dll
+C:\Users\pill\source\repos\upload\upload\upload\obj\Debug\netstandard2.0\upload.pdb
+C:\Users\pill\source\repos\upload\upload\upload\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pill\source\repos\upload\upload\upload\obj\Debug\netstandard2.0\upload.csprojAssemblyReference.cache
